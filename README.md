@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YousefTsh](https://github.com/YousefTsh)
 
-- 💬 Ask me about **Spring, Java, Docker, Python, Django, AI, ....**
+- 💬 Ask me about **Spring, Java, Docker, Python, Django, AI, DeepLearning, ....**
 
 - 📫 How to reach me **yousef.tsh2000@gmail.com**
 
